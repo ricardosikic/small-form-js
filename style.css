@@ -1,0 +1,22 @@
+.car-container {
+  border: lightgray .7px solid;
+  width: max-content;
+  padding: .5rem;
+  height: 300px;
+}
+
+.form-one {
+  display: block;
+}
+
+.form-two {
+  display: none;
+}
+
+.thank {
+  display: none;
+}
+
+input[type="text"] {
+  margin-bottom: .7rem;
+}
